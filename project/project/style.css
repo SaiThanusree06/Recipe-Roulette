@@ -1,0 +1,57 @@
+/* style.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #fbc2eb, #a6c1ee);
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+input, button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 5px;
+}
+#results {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.card h3 {
+  margin: 10px 0;
+}
+.card a {
+  color: #f85f73;
+  text-decoration: none;
+  font-weight: bold;
+}
+#searchForm input {
+  width: 70%;
+}
+#searchForm button {
+  background-color: #f85f73;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+#searchForm button:hover {
+  background-color: #e63946;
+}
