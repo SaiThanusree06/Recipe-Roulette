@@ -20,9 +20,9 @@ Ingredients Input
 
 ![Recipe Options](Screenshot2.png)
 
+![Recipe Options].(Screenshot3.png)
 Recipe Options
 
-![Recipe Results](Screenshot3.png)
 
 Recipe
 
