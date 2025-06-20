@@ -12,9 +12,21 @@ A colorful and responsive web app built using Python Flask and HTML/CSS/JS that 
 
 ## 🖼 Screenshot / Banner
 
+Recipe Banner
+
 ![Search Form](Screenshot1.png)
+
+Ingredients Input
+
 ![Recipe Options](Screenshot2.png)
+
+Recipe Options
+
 ![Recipe Results](Screenshot3.png)
+
+Recipe
+
+![Recipe Results](Screenshot4.png)
 
 ## 🧪 Technologies Used
 
@@ -50,9 +62,10 @@ project/
 ├── index.html         → Main frontend UI
 ├── style.css          → App styling
 ├── README.md          → This documentation file
-├── Screenshot1.png    → Reciepe Banner
-├── Screenshot2.png    → Input and receipe options
-├── Screenshot3.png    → Receipe
+├── Screenshot1.png    → Recipe Banner
+├── Screenshot2.png    → Ingredients Input 
+├── Screenshot3.png    → Recipe options
+├── Screenshot4.png    → Recipe
 
 📎 API Source
 
